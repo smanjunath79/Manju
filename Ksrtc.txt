@@ -1,0 +1,21 @@
+
+22-09-2015
+15-10-2015
+
+23405852
+22926654
+
+Ksrtc: 229371
+
+
+Connectivity fault management process: rtslib: ERROR kernel does not support all messages: expected 102 got 101,a reboot or software upgrade may be required
+Connectivity fault management process:
+Connectivity fault management process: rtslib: WARNING version mismatch for msg residx: expected 98 got 0,a reboot or software upgrade may be required
+Connectivity fault management process:
+Connectivity fault management process: rtslib: WARNING version mismatch for msg unknown: expected 98 got 6,a reboot or software upgrade may be required
+Connectivity fault management process:
+
+sbi card
+
+1-11056025359
+
